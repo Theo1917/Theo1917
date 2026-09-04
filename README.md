@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I’m Manoj Srivatsav P<br><br>Artificial Intelligence student passionate about building real-world tech solutions<br>Working on Machine Learning, Deep Learning, Computer Vision and Software Development<br><br>Some Projects I worked on<br><br>Heat Transfer prediction using Neural Networks<br>Post Earthquake Damage Assessment Using Deep Learning<br>Green Video Transcoding<br>Quantum Maze Solver<br><br><br>Currently Learning<br><br>Computer Vision<br>Big Data Analytics<br>Computer Security<br>Cybersecurity tools and Linux environments<br><br>Goal<br><br>Eager to learn experiment and build AI powered solutions that solve real world problems along with creating impactful tech products.
+Hi I’m Manoj Srivatsav P<br><br>Artificial Intelligence student passionate about building real-world tech solutions<br>Working on Machine Learning, Deep Learning, Computer Vision and Software Development<br><br>Some Projects I worked on<br><br>Heat Transfer prediction using Neural Networks<br>Post Earthquake Damage Assessment Using Deep Learning<br>Green Video Transcoding<br>Quantum Maze Solver<br><br><br>Goal<br><br>Eager to learn experiment and build AI powered solutions that solve real world problems along with creating impactful tech products.
 
 
 ## 🌐 Socials:
